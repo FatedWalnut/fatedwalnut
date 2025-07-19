@@ -10,7 +10,6 @@ São Paulo, São Paulo, Brasil
 ## Contato
 
 * **Email:** o.erhard@gmail.com
-* **Celular:** 11 97179-7832
 * **LinkedIn:** [www.linkedin.com/in/oliviererhard-0a0b60209](https://www.linkedin.com/in/oliviererhard-0a0b60209)
 * **Portfólio (GitHub):** [github.com/FatedWalnut](https://github.com/FatedWalnut)
 
