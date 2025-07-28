@@ -87,4 +87,4 @@ Estagiário de Desenvolvimento de Sistemas com experiência na criação de apli
 
 ### Faculdade de Tecnologia de São Paulo - FATEC-SP
 **Tecnólogo**, Análise de Sistemas de Computação
-agosto de 2022 – dezembro de 2025
+agosto de 2022 – dezembro de 2025 
